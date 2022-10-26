@@ -8,7 +8,7 @@
 	- LaTeX
   - PHP
 
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="300">
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250">
 
 - **Desarrollo Web**
 	- HTML, CSS and Javascript :white_check_mark:
@@ -27,6 +27,8 @@
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <br/><br/>
 <code><a href="https://wordpress.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></a></code>
+<br/><br/>
+<code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
 <br/><br/>
 
 ## 🌱 Actualmente estoy aprendiendo ...
