@@ -13,6 +13,8 @@
 - **Desarrollo Web**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
+	- NodeJS
+	- REACT
 	- Django
 	- MonogoDB
   - MariaDB
